@@ -229,6 +229,35 @@ footer p a {
   background-image: url('https://raw.githubusercontent.com/sethaddison/HelpScoutKB/master/icons/getting-started.PNG');
 }
 
+/* Integrations */
+#category-5 {
+  background-image: url('https://raw.githubusercontent.com/sethaddison/HelpScoutKB/master/icons/integrate.PNG');
+}
+
+/* Listings */
+#category-10 {
+  background-image: url('https://raw.githubusercontent.com/sethaddison/HelpScoutKB/master/icons/listings.PNG');
+}
+
+/* Open Houses */
+#category-11 {
+  background-image: url('https://raw.githubusercontent.com/sethaddison/HelpScoutKB/master/icons/openhouses.PNG');
+}
+
+/* Virtual tours */
+#category-12 {
+  background-image: url('https://raw.githubusercontent.com/sethaddison/HelpScoutKB/master/icons/video-play.PNG');
+}
+
+/* Contacts */
+#category-13 {
+  background-image: url('https://raw.githubusercontent.com/sethaddison/HelpScoutKB/master/icons/contact.PNG');
+}
+
+/* Reporting */
+#category-15 {
+  background-image: url('https://raw.githubusercontent.com/sethaddison/HelpScoutKB/master/icons/reporting.PNG');
+}
 
 .nav-collapse .nav {
   margin-top: 40px;
