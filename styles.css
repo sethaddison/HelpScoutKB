@@ -219,65 +219,16 @@ footer p a {
 
 /* Category: icons */
 
-#category-832 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-logo-mark.jpg');
+/* Account management */
+#category-21 {
+  background-image: url('https://raw.githubusercontent.com/sethaddison/HelpScoutKB/master/icons/settings.PNG');
 }
 
-#category-108 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-tools.jpg');
+/* Getting started */
+#category-9 {
+  background-image: url('https://raw.githubusercontent.com/sethaddison/HelpScoutKB/master/icons/getting-started.PNG');
 }
 
-#category-465 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-reports.jpg');
-}
-
-#category-74 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-copy-email.jpg');
-}
-
-#category-23 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-conversations.jpg');
-}
-
-#category-230 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-productivity.jpg');
-}
-
-#category-24 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-user-settings.jpg');
-}
-
-#category-604 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-mobile-apps.jpg');
-}
-
-#category-234 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-integrations.jpg');
-}
-
-#category-1205 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-start-with-beacon.jpg');
-}
-
-#category-1358 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-messages.jpg');
-}
-
-#category-1211 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-live-chat.jpg');
-}
-
-#category-41 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-working-with-docs.jpg');
-}
-
-#category-126 {
-  background-image: url(https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-managing-docs.jpg);
-}
-
-#category-217 {
-  background-image: url(https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-formatting-content.jpg);
-}
 
 .nav-collapse .nav {
   margin-top: 40px;
