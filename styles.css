@@ -259,6 +259,11 @@ footer p a {
   background-image: url('https://raw.githubusercontent.com/sethaddison/HelpScoutKB/master/icons/reporting.PNG');
 }
 
+/* Support */
+#category-15 {
+  background-image: url('https://raw.githubusercontent.com/sethaddison/HelpScoutKB/master/icons/reporting.PNG');
+}
+
 .nav-collapse .nav {
   margin-top: 40px;
 }
